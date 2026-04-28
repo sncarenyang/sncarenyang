@@ -28,7 +28,8 @@ I enjoy turning complex technical concepts into real-world applications.
 - Integrated external knowledge (Wikipedia + custom dataset)  
 - Deployed interactive demo on Hugging Face Spaces  
 
-🔗 GitHub: https://github.com/sncarenyang/medical-rag-demo  
+🔗 GitHub: https://github.com/sncarenyang/medical-ai-assistant
+
 
 ---
 
@@ -38,7 +39,7 @@ I enjoy turning complex technical concepts into real-world applications.
 - User-driven input with real-time computation  
 - Modular and extensible structure  
 
-🔗 GitHub: https://github.com/sncarenyang/ml-sample-demo  
+🔗 GitHub: https://github.com/sncarenyang/numerical-methods-toolkit
 
 ---
 
