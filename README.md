@@ -3,11 +3,11 @@
 
 # 👋 Hi, I'm Caren (Shi-Ning Yang) **楊師寧**
 
-🎯 AI Engineer | LLM / RAG / Applied Machine Learning / Healthcare-Aware AI Systems
+- AI Engineer | LLM / RAG / Applied Machine Learning / Healthcare-Aware AI Systems
 
-🚀 Building AI systems that solve real-world problems in healthcare and infrastructure
+- Building AI systems that solve real-world problems in healthcare and infrastructure
 
-🌏 Based in Taiwan | Open to remote opportunities  
+- Based in Taiwan | Open to remote opportunities  
 
 
 ---
@@ -30,8 +30,7 @@ Over the past decade, I have also been deeply involved in family caregiving, whi
  - Integrated external knowledge (Wikipedia + custom dataset)
  - Deployed interactive demo on Hugging Face Spaces
  - Focus: practical medical Q&A + real-world usability
-
-🔗 https://github.com/sncarenyang/medical-ai-assistant
+ - 🔗 https://github.com/sncarenyang/medical-ai-assistant
 
 
 ### 🐧 Linux System Administration Toolkit
@@ -39,25 +38,22 @@ Over the past decade, I have also been deeply involved in family caregiving, whi
  - Covers CPU, memory, disk monitoring + backup automation
  - Designed for cron integration and cloud VM environments
  - Demonstrates DevOps / infrastructure fundamentals
+ - 🔗 https://github.com/sncarenyang/linux-systemadmin-scripts
 
-🔗 https://github.com/sncarenyang/linux-systemadmin-scripts
 
-
-⚙️ Numerical Methods Toolkit (C++)
+### 📈 Numerical Methods Toolkit (C++)
  - Interactive numerical computation toolkit
  - Supports root finding and engineering calculations
  - Modular design with user-driven input
  - Demonstrates strong C++ and algorithmic thinking
-
-🔗 https://github.com/sncarenyang/numerical-methods-toolkit
+ - 🔗 https://github.com/sncarenyang/numerical-methods-toolkit
 
 
 ### 🤖 LLM / AI Experiments
 - Hands-on exploration of LLM APIs and prompt engineering  
 - Testing model behavior and response quality  
-- Rapid prototyping of AI workflows  
-
-🔗 https://github.com/sncarenyang/ml-sample-demo
+- Rapid prototyping of AI workflows
+- 🔗 https://github.com/sncarenyang/ml-sample-demo
 
 ---
 
@@ -87,7 +83,7 @@ Tools & Systems
 ## 📫 Contact
 
 📧 caren.yang@gmail.com  
-🌏 Open to remote AI/ Cloud/ DevOps opportunities  
+- Open to remote AI/ Cloud/ DevOps opportunities  
 
 ---
 
