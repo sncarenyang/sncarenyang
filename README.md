@@ -32,6 +32,14 @@ Over the past decade, I have also been deeply involved in family caregiving, whi
  - Focus: practical medical Q&A + real-world usability
  - 🔗 https://github.com/sncarenyang/medical-ai-assistant
 
+### 💬 ChatGPT-style AI Chatbot (Gradio UI)
+ - Built a ChatGPT-like conversational interface using LLM APIs
+ - Supports multi-turn conversation with memory
+ - Model selection (e.g., OpenAI / Gemini-ready structure)
+ - Clean UI with streaming responses and loading feedback
+ - Deployed with Gradio for rapid prototyping and demo
+ - Focus: real-world chatbot UX + LLM integration
+ - 🔗 https://github.com/sncarenyang/llm-chatbot-ui
 
 ### 🐧 Linux System Administration Toolkit
  - Built Bash-based monitoring and automation scripts
@@ -48,12 +56,6 @@ Over the past decade, I have also been deeply involved in family caregiving, whi
  - Demonstrates strong C++ and algorithmic thinking
  - 🔗 https://github.com/sncarenyang/numerical-methods-toolkit
 
-
-### 🤖 LLM / AI Experiments
-- Hands-on exploration of LLM APIs and prompt engineering  
-- Testing model behavior and response quality  
-- Rapid prototyping of AI workflows
-- 🔗 https://github.com/sncarenyang/ml-sample-demo
 
 ---
 
