@@ -3,11 +3,13 @@
 
 # 👋 Hi, I'm Caren (Shi-Ning Yang) **楊師寧**
 
-- AI Engineer | LLM / RAG / Applied Machine Learning / Healthcare-Aware AI Systems
+- AI Engineer | LLM Systems / RAG / Applied AI for Machine Learning & Healthcare
 
 - Building AI systems that solve real-world problems in healthcare and infrastructure
+  
+- Background in Electrical Engineering + Theoretical Physics
 
-- Based in Taiwan | Open to remote opportunities  
+- ⭐ Open to AI Engineer opportunities (remote / international)
 
 
 ---
@@ -55,41 +57,60 @@ Over the past decade, I have also been deeply involved in family caregiving, whi
  - Modular design with user-driven input
  - Demonstrates strong C++ and algorithmic thinking
  - 🔗 https://github.com/sncarenyang/numerical-methods-toolkit
+ - 
+
+### 🤖 LLM / AI Experiments
+- Explored LLM APIs, prompt engineering, and model behavior  
+- Built rapid prototypes for AI workflows and use cases  
+- Investigated limitations such as hallucination, context handling, and response consistency  
+- Experimented with different models and prompting strategies  
+- Debugged real-world issues in LLM applications (API limits, stale responses, deployment constraints)  
+- Focus: understanding real-world constraints and improving reliability of LLM systems
 
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Tech Stack
 
-AI / ML  
-- LLM Applications, RAG, Prompt Engineering  
+**Languages:**  
+Python • C++ • C • MATLAB • SQL  
 
-Programming  
-- Python, C/C++, MATLAB  
+**AI / Data:**  
+LLMs • RAG • LangChain • Prompt Engineering • NLP  
 
-Tools & Systems  
-- Git, Linux, MySQL  
+**Tools & Platforms:**  
+Gradio • Hugging Face Spaces • GitHub • Linux • Bash  
 
 ---
-
 ## 💡 What Makes Me Different
 
-- 🧠 Strong analytical foundation (Physics + Engineering)
-- 📈 Good at explaining complex concepts clearly
-- 🎯 Experience across engineering, data, and education
-- ❤️ Specail medical insight from long-term caregiving
-- ⚙️ Ability to bridge AI, systems, and practical use cases
+- 🩺 **Healthcare + AI combination**  
+  Over 10 years of hands-on caregiving experience, bringing real-world medical context into AI applications  
+
+- 🧠 **Deep technical foundation**  
+  Trained in Electrical Engineering and theoretical Physics, with strong analytical and problem-solving skills   
+  
+- 🛠️ **Builder mindset**  
+  Focused on building complete AI systems (RAG, chatbots, deployment) rather than isolated experiments  
+
+- 🎯 **Human-centered AI design**  
+  Emphasis on usability, clarity, and practical impact in real-world scenarios. Also good at explaining complex concepts clearly.
+
+- 🚀 **Execution speed**  
+  Rapid prototyping, debugging, and deployment of AI applications under real constraints
+
+## 🌱 Currently Focused On
+- Building production-ready AI applications  
+- Improving LLM reliability (retrieval, grounding, evaluation)  
+- Exploring AI applications in healthcare  
 
 ---
 
-## 📫 Contact
-
-📧 caren.yang@gmail.com  
-- Open to remote AI/ Cloud/ DevOps opportunities  
+## 📫 Let's Connect
+- GitHub: https://github.com/sncarenyang  
 
 ---
 
-⭐ If you're building something interesting in AI, feel free to connect!
 
 
 <!--
