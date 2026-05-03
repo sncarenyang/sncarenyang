@@ -5,7 +5,7 @@
 
 - AI Engineer | LLM Systems / RAG / Applied AI for Machine Learning & Healthcare
 
-- Building AI systems that solve real-world problems in healthcare and infrastructure
+- Building AI systems that solve real-world problems in infrastructure
   
 - Background in Electrical Engineering + Theoretical Physics
 
@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-With a background in Physics, Electrical Engineering, and Software Development, I combine strong analytical thinking with hands-on engineering skills.
+With a background in Physics, Electrical Engineering, and Software, I combine strong analytical thinking with hands-on engineering skills.
 
 Previously worked as a software engineer in international teams, building backend systems, APIs, and data workflows. I enjoy turning complex technical concepts into real-world applications.
 
@@ -76,10 +76,11 @@ Over the past decade, I have also been deeply involved in family caregiving, whi
 Python • C++ • C • MATLAB • SQL  
 
 **AI / Data:**  
-LLMs • RAG • LangChain • Prompt Engineering • NLP  
+LLMs • RAG • LangChain • Prompt Engineering • NLP • NumPy • Scikit-learn • Matplotlib
 
 **Tools & Platforms:**  
-Gradio • Hugging Face Spaces • GitHub • Linux • Bash  
+Gradio • Hugging Face Spaces • Git/GitHub • Linux • Bash •  Google Colab
+       
 
 ---
 ## 💡 What Makes Me Different
